@@ -1,6 +1,7 @@
 # PEMOGRAMAN ORIENTASI OBJEK
 
 ## PROJECT AKHIR TI20A1 
+
 ### "PENJUALAN TIKET PESAWAT BERBASIS GUI DAN DESKTOP"
 
 
@@ -15,6 +16,4 @@ Indira Aline          (312010042)
 Muhammad Rifai Aditia (312010065)
 
 
-
-
-Program Studi Teknik Informatika - UNIVERSITAS PELITA BANGSA
+### Program Studi Teknik Informatika - UNIVERSITAS PELITA BANGSA

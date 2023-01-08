@@ -5,8 +5,12 @@
 ### ANGGOTA KELOMPOK 
 
 Denas Aria Pamungkas  (312010089)
+
 Diyan Arum Maheswari  (312010133)
+
 Indira Aline          (312010042)
+
 Muhammad Rifai Aditia (312010065)
+
 
 Program Studi Teknik Informatika - UNIVERSITAS PELITA BANGSA
